@@ -11,7 +11,4 @@
 - rm -rf F-clone-it
 - git clone https://github.com/MIVI404cyber/User-Agents-genaretor
 - cd  User-Agents-genaretor
-- python 
-# Single Command
-- pkg install git ; rm -rf F-clone-it ; git clone https://github.com/MIVI404cyber/booster_pro ; cd booster_pro ; python Boost.py
 # Thanks All (💝)
